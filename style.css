@@ -98,6 +98,7 @@ a:hover {
 	font-size: 32px;
 	text-align: center;
 	width: 100%;
+	background: rgba(0,0,0,.3);
 }
 #mat {
 	color: white;
