@@ -1,5 +1,6 @@
 body {
-	background-image: url("img/pakier.jpg");
+	background-image: url("pakier.jpg")no-repeat ; 
+	
 	background-size: cover;
 }
 #nazwa
