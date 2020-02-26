@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="formularz">
+<form name="zgłoszeniowy" id="1" action="" method="post">
+<label>Imię:</label>
+  <input name="imie" id="imie" type="text" value="" size="15" maxlength="16" pattern="" placeholder="Wpisz swoje imię" title="Wpisz swoje imię" required="required" autofocus="autofocus"><br>
+<label>Nazwisko:</label> 
+ <input name="nazwisko" id="nazwisko" type="text" value="" size="15" maxlength="16" pattern="" placeholder="Wpisz swoją godność" title="Wpisz swoją godność" required="required" autofocus="autofocus"><br>
+<label>Adres email:</label>  
+<input name="email" id="email" type="email" value="" size="8" maxlength="45" pattern="" placeholder="Podaj swój email" title="Podaj swój email" required="required" autofocus="autofocus"><br>
+<label>Opisz swoją sytuację:</label>  <br>
+<textarea name="text" id="text" rows="30" cols="60" maxlength="300" title="Opisz swoją sytuację" required="required" autofocus="autofocus"></textarea><br>
+<label>Co chcesz osiągnąć?:</label> <br>
+<input type="radio" name="nazwa" value="wartość" checked>Przytyć<br>
+<input type="radio" name="nazwa" value="wartość" checked>Schudnąć<br>
+<input type="radio" name="nazwa" value="wartość" checked>Zmienić nawyki żywieniowe<br>
+<input type="radio" name="nazwa" value="wartość" checked>Nie wiem<br>
+<br>
+  <input name="wyczysc" id="wyczysc" type="reset" value="Wyczyść" title="kasuje odpowiedzi" autofocus="autofocus">
+  <input name="wyslij" id="wyslij" type="submit" value="Wyślij" title="wysyła do nas twoje zgłoszenie" autofocus="autofocus"><br>
+</form>
+</div>
+</body>
+</html>

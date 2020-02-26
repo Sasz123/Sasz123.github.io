@@ -1,0 +1,186 @@
+body {
+	background-image: url("img/pakier.jpg");
+	background-size: cover;
+}
+#nazwa
+{
+	color: white;
+	background-color: none;
+	font-size: 40px;
+	width: 25%;
+	height:200px;
+    margin:auto;
+	text-align:center;
+}
+a {
+	
+	color: white;
+}
+a:hover {
+	color:red;
+}
+
+#menu {
+	color: white;
+	margin: auto;
+	font-size: 40px;
+	width: 25%;
+	text-align:center;
+}
+#onas {
+	color: white;
+	margin: auto;
+	font-size: 40px;
+	text-align:center;
+	width: 25%;
+	
+}
+#info {
+	color: white;
+	margin: auto;
+	Font-size: 40px;
+	text-align: center;
+	width: 25%; 
+	
+}
+
+#men {
+	color: white;
+	margin: auto;
+	font-size: 35px;
+	text-align: center;
+	width: 100%;
+}
+#yt {
+	width:30%;
+	margin-top: 20%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	align-content: center;
+	
+	
+}
+#re{
+	width:30%;
+	margin-top: 20%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	align-content: center;
+}
+#it{
+	width:30%;
+	margin-top: 20%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	align-content: center;
+}
+#pos1 {
+	color: red;
+	padding: 0 15px; 
+	font-size: 23px;
+	text-align: center;
+	width: 400px;
+}
+
+#seb{
+	width: 80%;
+	margin: auto;
+	display: flex;
+}
+
+#adi {
+	color: white;
+	margin: auto;
+	font-size: 32px;
+	text-align: center;
+	width: 100%;
+}
+#mat {
+	color: white;
+	margin-left: 40%;
+	margin-top: 15%;
+	text-align: center;
+	width: 20%;
+	font-size: 28px;
+}
+
+#God {
+	color: white;
+	margin: auto;
+	text-align: center;
+	width: auto;
+	font-size: 34px;
+}
+#pon {
+	color: white;
+	margin: auto;
+	text-align: center;
+	width: auto;
+	font-size: 25px;
+}
+#kon {
+	color: white;
+	margin: auto;
+	text-align: center;
+	width: auto;
+	font-size: 34px;
+}#bon {
+	color: white;
+	margin: auto;
+	text-align: center;
+	width: auto;
+	font-size: 25px;
+}#lon {
+	color: white;
+	margin: auto;
+	text-align: center;
+	width: auto;
+	font-size: 34px;
+}
+#jon {
+	color: white;
+	margin: auto;
+	text-align: center;
+	width: auto;
+	font-size: 25px;
+}
+#lo3 {
+	
+	width: 350px;
+	height: 350px;
+	margin: 0 auto; 
+	position: relative; 
+	
+}
+#ty {
+	width: 350px;
+	height: 350px;
+	margin: 0 auto; 
+	position: relative; 
+	
+}
+#bo {
+	width: 350px;
+	height: 350px;
+	margin: 0 auto; 
+	position: relative; 
+}
+#formularzx {
+	color: white;
+	margin: auto;
+	font-size: 40px;
+	width: 25%;
+	text-align:center;
+}
+#formularz{
+	
+	color: white;
+	margin: auto;
+	text-align: center left;
+	width: auto;
+	font-size: 34px;
+	margin-left: 25%;
+}
