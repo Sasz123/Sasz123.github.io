@@ -177,6 +177,7 @@ a:hover {
 	font-size: 40px;
 	width: 25%;
 	text-align:center;
+	background: rgba(0,0,0,.3);
 }
 #formularz{
 	
@@ -186,4 +187,5 @@ a:hover {
 	width: auto;
 	font-size: 34px;
 	margin-left: 25%;
+	background: rgba(0,0,0,.3);
 }
