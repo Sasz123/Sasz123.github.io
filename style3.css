@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+header {
+    background-color: #E8C84E;
+    height: 50px;
+    font-size: 130%;
+    text-align: center;
+}
+
+main{
+    display: flex;
+}
+.lewy {
+    background-color:  #FFB544;
+    height: 500px;
+    font-size: 130%;
+    width: 40%;
+}
+.lewy ul li {
+    padding-top: 30px;
+}
+.srodek {
+    height: 500px;
+    width: 30%;
+    text-align: center;
+}
+.prawo {
+    background-color: #FFB544;
+    height: 500px;
+    width: 30%;
+    font-size: 130%;
+    text-align: center;
+}
+.prawo img{
+    width: 200px;
+}
+
+h3 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+form {
+    margin-bottom: 100px;
+}
+footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #E8C84E;
+    height: 50px;
+}
+footer h4 {
+    padding: 10px;
+}
