@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trade Winds';
+}
+
+body {
+	background: url("pakier.jpg")no-repeat; 
+	font-family: 'Trade Winds';
+	background-size: cover;
+    background-attachment: fixed;
+	background-color: black;
+	color: white;
+}
